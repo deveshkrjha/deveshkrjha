@@ -34,7 +34,7 @@
 
 ![Deep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deveshkrjha&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepsingh3473&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deveshkrjha&layout=compact&theme=tokyonight)
 
 ---
 
