@@ -11,8 +11,8 @@
 
 ### 🚀 Featured Projects
 
-- 👕 [Aditya Clothing and Shoes](https://github.com/deepsingh3473/aditya-clothing-and-shoes)  
-  Full-featured e-commerce website with cart, filters, and payment integration.
+- 👕 [Simple Cart - MERN Project](https://github.com/deveshkrjha/MERN-FRONTEND)  
+  Full-featured e-commerce website with cart, filters, and fully deployed.
 
 - 🌦️ [Weather App - Node.js](https://github.com/deepsingh3473/weather-app-nodejs)  
   A sleek weather app using Node.js and external APIs.
