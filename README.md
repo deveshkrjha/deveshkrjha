@@ -14,10 +14,10 @@
 - 👕 [Simple Cart - MERN Project](https://github.com/deveshkrjha/MERN-FRONTEND)  
   Full-featured e-commerce website with cart, filters, and fully deployed.
 
-- 🌦️ [Weather App - Node.js](https://github.com/deepsingh3473/weather-app-nodejs)  
+- 🌦️ [Weather App - Node.js](provide the link here)  
   A sleek weather app using Node.js and external APIs.
 
-- 💬 [Chat App - Socket.io](https://github.com/deepsingh3473/chatApp-using-socketio)  
+- 💬 [Chat App - Socket.io](provide the project link here)  
   Real-time chat application built using Socket.io.
 
 ---
