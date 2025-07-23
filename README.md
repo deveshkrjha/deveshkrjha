@@ -40,8 +40,8 @@
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/deepsingh3473/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/deveshjha1/) 
 
 ---
 
-> “Code is not just instructions for machines. It's poetry for thinkers.” — *Deep*
+> “Code is not just instructions for machines. It's poetry for thinkers.” — *Devesh*
