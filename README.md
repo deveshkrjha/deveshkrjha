@@ -3,7 +3,7 @@
 ### 💻 Full Stack Developer | Builder of Ideas | Code Craftsman
 
 - ⚛️ **Frontend:** React, JavaScript, HTML, CSS
-- 🔧 **Backend:** Node.js, Express.js
+- 🔧 **Backend:** SpringBoot, Node.js, Express.js
 - 🛢️ **Database:** MongoDB, MySQL
 - 🧰 **Tools & Platforms:** Git, GitHub, VSCode, Postman, Netlify, Render
 
@@ -32,7 +32,7 @@
 
 ### 📊 GitHub Stats
 
-![Deep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deveshkrjha&show_icons=true&theme=tokyonight)
+![Devesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deveshkrjha&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deveshkrjha&layout=compact&theme=tokyonight)
 
