@@ -11,9 +11,10 @@
 
 ### 🚀 Featured Projects
 
-- 👕 [Simple Cart - MERN Project](https://github.com/deveshkrjha/MERN-FRONTEND)  
-  Full-featured e-commerce website with cart, filters, and fully deployed.
-
+- ⚕️💊 [Pharmacy-Ordering-Application](https://github.com/deveshkrjha/Pharmacy-Ordering-Application)  
+  A microservices-based Pharmacy Ordering platform with authentication, medicine catalog, prescription workflow, order
+  management, and role-based dashboards.
+  
 - 🌦️ [Weather App - Node.js](provide the link here)  
   A sleek weather app using Node.js and external APIs.
 
